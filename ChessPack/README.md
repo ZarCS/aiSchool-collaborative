@@ -1,2 +1,2 @@
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=BNjnt4jMKMI)
+[![asciicast](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=BNjnt4jMKMI)
 
