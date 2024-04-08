@@ -1,4 +1,4 @@
 
 
-https://github.com/ZarCS/aiSchool-collaborative/assets/139686975/cd9b62e2-842d-4156-8388-8d97916669c2
+https://github.com/ZarCS/aiSchool-collaborative/assets/139686975/5a8908f5-09ef-4d8f-b3bb-ed2f0307b36b
 
